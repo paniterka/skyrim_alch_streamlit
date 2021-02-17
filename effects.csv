@@ -1,0 +1,56 @@
+Effect_ID,Effect,ing_cnt,Effect_action,Effect_object,Effect_group,Effect_objecttype
+0,Cure Disease,5,Unique,Unique,Unique,Unique
+1,Damage Health,18,Damage,Health,Toxic,Hero
+2,Damage Magicka,13,Damage,Magicka,Toxic,Hero
+3,Damage Magicka Regen,15,Damage,Magicka Regen,Toxic,Hero
+4,Damage Stamina,15,Damage,Stamina,Toxic,Hero
+5,Damage Stamina Regen,11,Damage,Stamina Regen,Toxic,Hero
+6,Fear,8,Unique,Unique,Unique,Unique
+7,Fortify Alteration,4,Fortify,Alteration,Positive,Skill
+8,Fortify Barter,4,Fortify,Barter,Positive,Skill
+9,Fortify Block,7,Fortify,Block,Positive,Skill
+10,Fortify Carry Weight,9,Fortify,Carry Weight,Positive,Hero
+11,Fortify Conjuration,9,Fortify,Conjuration,Positive,Skill
+12,Fortify Destruction,7,Fortify,Destruction,Positive,Skill
+13,Fortify Enchanting,7,Fortify,Enchanting,Positive,Skill
+14,Fortify Health,8,Fortify,Health,Positive,Hero
+15,Fortify Heavy Armor,5,Fortify,Heavy Armor,Positive,Skill
+16,Fortify Illusion,5,Fortify,Illusion,Positive,Skill
+17,Fortify Light Armor,7,Fortify,Light Armor,Positive,Skill
+18,Fortify Lockpicking,5,Fortify,Lockpicking,Positive,Skill
+19,Fortify Magicka,9,Fortify,Magicka,Positive,Hero
+20,Fortify Marksman,4,Fortify,Marksman,Positive,Skill
+21,Fortify One-Handed,6,Fortify,One-Handed,Positive,Skill
+22,Fortify Pickpocket,4,Fortify,Pickpocket,Positive,Skill
+23,Fortify Restoration,6,Fortify,Restoration,Positive,Skill
+24,Fortify Smithing,4,Fortify,Smithing,Positive,Skill
+25,Fortify Sneak,8,Fortify,Sneak,Positive,Skill
+26,Fortify Stamina,7,Fortify,Stamina,Positive,Hero
+27,Fortify Two-Handed,4,Fortify,Two-Handed,Positive,Skill
+28,Frenzy,7,Unique,Unique,Unique,Unique
+29,Invisibility,7,Unique,Unique,Unique,Unique
+30,Lingering Damage Health,6,Lingering Damage,Health,Toxic,Hero
+31,Lingering Damage Magicka,5,Lingering Damage,Magicka,Toxic,Hero
+32,Lingering Damage Stamina,5,Lingering Damage,Stamina,Toxic,Hero
+33,Paralysis,7,Unique,Unique,Unique,Unique
+34,Ravage Health,7,Ravage,Health,Toxic,Hero
+35,Ravage Magicka,8,Ravage,Magicka,Toxic,Hero
+36,Ravage Stamina,8,Ravage,Stamina,Toxic,Hero
+37,Regenerate Health,8,Regenerate,Health,Positive,Hero
+38,Regenerate Magicka,8,Regenerate,Magicka,Positive,Hero
+39,Regenerate Stamina,4,Regenerate,Stamina,Positive,Hero
+40,Resist Fire,11,Resist,Fire,Positive,Elemental
+41,Resist Frost,10,Resist,Frost,Positive,Elemental
+42,Resist Magic,12,Resist,Magic,Positive,Magic
+43,Resist Poison,10,Resist,Poison,Positive,Elemental
+44,Resist Shock,9,Resist,Shock,Positive,Elemental
+45,Restore Health,13,Restore,Health,Positive,Hero
+46,Restore Magicka,17,Restore,Magicka,Positive,Hero
+47,Restore Stamina,21,Restore,Stamina,Positive,Hero
+48,Slow,7,Unique,Unique,Unique,Unique
+49,Waterbreathing,5,Unique,Unique,Unique,Unique
+50,Weakness to Fire,7,Weakness to,Fire,Toxic,Elemental
+51,Weakness to Frost,6,Weakness to,Frost,Toxic,Elemental
+52,Weakness to Magic,8,Weakness to,Magic,Toxic,Magic
+53,Weakness to Poison,8,Weakness to,Poison,Toxic,Elemental
+54,Weakness to Shock,6,Weakness to,Shock,Toxic,Elemental

@@ -1,0 +1,112 @@
+Ingredient,Primary Effect,Secondary Effect,Tertiary Effect,Quaternary Effect,Weight ,Value ,Obtained,Ingredient_note
+0,51,25,53,23,0.5,15,"Lakes, rivers, streams, fish barrels",Basic
+1,4,11,3,13,0.1,2,Ancestor Glade,Dawnguard DLC
+2,4,29,40,12,0.3,20,Harvested from ash covered areas of Solstheim,Dragonborn DLC
+3,45,17,44,51,0.3,20,Ash Hopper Corpses,Dragonborn DLC
+4,40,54,18,25,0.1,1,Harvested from ash covered areas of Solstheim,Dragonborn DLC
+5,47,14,21,3,0.1,2,"Bears, Cave Bears, Snow Bears",Basic
+6,47,36,39,54,0.1,3,Beehive,Basic
+7,43,17,25,12,1.0,5,Beehive,Basic
+8,4,40,11,36,0.5,5,Quest item given by Thadgeir; also found in Valerica's Study in Castle Volkihar.,Basic
+9,50,9,53,42,0.3,10,Mushroom clusters,Basic
+10,4,28,45,24,0.2,12,Caves and dark areas,Basic
+11,4,11,3,13,0.1,2,Blue Butterfly,Basic
+12,44,22,45,6,0.1,1,Hovering above water,Basic
+13,45,11,14,3,0.1,2,Mountain flower clumps,Basic
+14,26,14,9,28,0.5,20,Tusked Bristlebacks,Dragonborn DLC
+15,4,40,11,36,0.5,5,Draugr and skeletons,Basic
+16,46,9,33,19,0.5,20,Forsworn Leaders,Basic
+17,50,7,3,48,0.5,20,Burnt Spriggans,Dragonborn DLC
+18,45,8,32,2,0.1,3,Monarch Butterfly,Basic
+19,4,21,20,33,0.1,5,Near rocky areas,Basic
+20,47,0,43,45,0.5,1,Found at campfires,Basic
+21,53,26,2,29,0.2,10,Falmer caves,Basic
+22,4,11,3,13,0.1,2,"Chaurus Hunter, Chaurus Hunter Fledgling",Dawnguard DLC
+23,42,3,49,32,0.5,2,Chicken's Nest,Basic
+24,46,5,10,52,0.2,1,Hydro-thermal areas,Basic
+25,1,4,29,42,0.2,10,Blackreach,Basic
+26,4,23,6,34,0.3,15,"Lakes, rivers, streams, fish barrels",Basic
+27,45,5,2,6,0.5,250,Daedra,Basic
+28,1,36,48,53,0.1,4,"Wild, on planters",Basic
+29,40,8,16,27,0.1,5,Hydro-thermal areas,Basic
+30,52,16,38,46,0.3,15,Dwemer Ruins,Basic
+31,46,12,19,1,0.1,25,Ghostlike creatures,Basic
+32,46,20,51,40,0.1,10,"Plant, hanging herbs",Basic
+33,1,19,37,27,0.3,1,Hanging from Emperor Parasol around Tel Mithryn.,Dragonborn DLC
+34,47,34,2,45,0.1,2,"Sabre Cat, Snowy Sabre Cat",Basic
+35,1,28,43,18,0.2,10,Falmer,Basic
+36,45,17,0,42,0.1,15,Felsaad Tern,Dragonborn DLC
+37,51,40,46,38,0.3,50,Flame Atronach,Basic
+38,40,27,28,39,0.1,2,Mushroom clusters in and around caves,Basic
+39,41,25,35,5,0.1,1,"Hanging in homes, businesses and giant camps",Basic
+40,50,41,46,11,0.3,100,Frost Atronach,Basic
+41,43,26,38,37,0.3,1,"Hanging in homes, businesses and cooking areas",Basic
+42,54,34,53,46,0.3,5,Swamps,Basic
+43,4,14,10,5,1.0,20,Giants,Basic
+44,42,6,37,33,0.1,5,"Harvested in Darkfall Cave, Forgotten Vale",Dawnguard DLC
+45,2,3,12,44,0.5,20,Wispmother,Basic
+46,44,12,24,14,0.2,5,"Caves, Dwemer Ruins",Basic
+47,43,35,7,46,0.1,1,Tundras,Basic
+48,42,31,13,8,0.3,20,Hagraven,Basic
+49,2,11,28,54,0.1,20,Hagraven,Basic
+50,2,14,3,21,0.3,1,"Vegetated areas, hanging in caves, from buildings",Basic
+51,47,41,10,44,0.3,15,Hawks,Basic
+52,0,17,21,25,0.1,15,Hawks,Basic
+53,42,3,49,32,0.5,2,Hawk's Nest,Hearthfire DLC
+54,47,19,5,49,0.3,6,"Lakes, rivers, streams and fish barrels",Basic
+55,47,9,17,36,1.0,5,Beehive,Basic
+56,1,33,46,25,0.3,1,Falmer Vampire dens,Basic
+57,1,2,3,28,1.0,0,Falmer Vampire dens,Basic
+58,51,15,29,50,0.3,30,Ice Wraith,Basic
+59,1,30,33,45,0.3,0,Mushroom clusters near caves or dungeons,Basic
+60,1,2,4,3,0.5,10,Dark Brotherhood quest,Basic
+61,52,19,38,34,0.2,1,Hydro-thermal regions,Basic
+62,50,20,37,5,0.1,1,Juniper Trees,Basic
+63,47,26,48,5,0.1,2,"Deer, Elk",Basic
+64,42,26,35,11,0.1,1,Outdoors in clumps,Basic
+65,2,17,37,29,0.1,5,Luna Moth,Basic
+66,50,41,46,38,0.3,50,Khajiit Caravans,Basic
+67,46,30,39,16,0.3,4,Dead Trees,Basic
+68,47,0,43,40,0.3,2,Mudcrabs,Basic
+69,2,18,6,37,0.3,0,Caves,Basic
+70,33,10,47,6,0.5,20,Netch,Dragonborn DLC
+71,1,3,32,12,0.1,8,"Graveyards, undead areas",Basic
+72,1,4,29,42,0.2,10,Near water,Basic
+73,2,49,37,22,0.2,5,Underwater,Basic
+74,47,35,22,30,0.1,1,Hovering above water,Basic
+75,47,9,46,44,0.1,2,Satchels; Alchemy Laboratory of a Homestead† Pearl Oyster‡,Basic
+76,47,18,53,44,0.5,2,Nests in forests,Basic
+77,1,48,10,6,0.3,5,Darkfall Cave,Dawnguard DLC
+78,47,25,50,6,0.1,2,"Giant Camps, Alchemy Laboratory of a Homestead†",Basic
+79,47,25,31,41,0.1,2,Mountain flower clumps,Basic
+80,46,35,19,1,0.1,2,Mountain flower clumps,Basic
+81,1,7,48,10,0.3,15,"Lakes, rivers, streams and fish barrels",Basic
+82,45,21,4,52,0.5,2,Rock Warbler Nest,Basic
+83,47,15,24,53,0.1,2,"Sabre Cat, Snowy Sabre Cat",Basic
+84,47,49,19,38,0.2,5,"Salmon jumping up falls, Kitchen of a Homestead†",Hearthfire DLC
+85,52,23,48,38,0.2,2,"Merchants, containers, near cooking places",Basic
+86,52,16,39,10,0.3,4,Dead birch trees,Basic
+87,34,36,35,30,0.1,1,Harvested all over Solstheim,Dragonborn DLC
+88,47,5,34,41,0.3,15,"Lakes, rivers, streams and fish barrels",Basic
+89,5,34,1,17,0.2,3,Skeever,Basic
+90,43,22,30,26,0.2,3,Underwater,Basic
+91,41,30,15,9,0.1,3,Slaughterfish,Basic
+92,53,23,32,1,0.1,2,Elk,Basic
+93,47,21,23,41,0.1,2,Pearl Oyster‡,Basic
+94,40,13,41,44,0.1,4,"Snowberry bush, snowy areas",Basic
+95,36,40,13,35,0.1,20,Ash Spawn,Dragonborn DLC
+96,4,3,18,20,0.2,5,Spider lairs,Basic
+97,3,13,24,7,0.2,15,Spriggan,Basic
+98,44,31,33,45,0.3,5,Swamps,Basic
+99,52,16,38,46,0.5,15,Spriggan,Basic
+100,41,36,43,15,0.1,1,Thistle Plant,Basic
+101,47,31,52,26,0.1,1,"Torchbugs, glowing at night",Basic
+102,54,10,2,48,0.2,1,Harvested from ashen areas of Solstheim,Dragonborn DLC
+103,43,27,28,1,1.0,15,Trolls,Basic
+104,42,19,9,8,0.1,1,"High mountains below snow line, tundra",Basic
+105,29,46,37,0,0.2,25,"Vampires, the Silver Hand",Basic
+106,54,42,1,19,0.2,125,Storm Atronach,Basic
+107,45,14,5,31,0.1,5,"Grows on farms, containers",Basic
+108,51,15,46,35,0.3,0,Mushroom clusters near caves or dungeons,Basic
+109,47,12,10,42,0.1,2,Wispmother,Basic
+110,43,23,14,5,0.1,2,"Darkfall Cave, Ancestor Glade",Dawnguard DLC

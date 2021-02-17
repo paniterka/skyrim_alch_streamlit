@@ -1,0 +1,56 @@
+Effect_EN,Effect_PL,Effect_ID
+Cure Disease,Uleczenie choroby,0
+Damage Health,Osłabienie zdrowia,1
+Damage Magicka,Osłabienie magii,2
+Damage Magicka Regen,Osłabienie regeneracji magii,3
+Damage Stamina,Osłabienie kondycji,4
+Damage Stamina Regen,Osłabienie regeneracji kondycji,5
+Fear,Strach,6
+Fortify Alteration,Premia do przemiany,7
+Fortify Barter,Premia do retoryki ,8
+Fortify Block,Premia do bloku ,9
+Fortify Carry Weight,Premia do udźwigu ,10
+Fortify Conjuration,Premia do przywoływania ,11
+Fortify Destruction,Premia do zniszczenia ,12
+Fortify Enchanting,Premia do zaklinania ,13
+Fortify Health,Premia do zdrowia ,14
+Fortify Heavy Armor,Premia do ciężkiego pancerza ,15
+Fortify Illusion,Premia do iluzji ,16
+Fortify Light Armor,Premia do lekkiej zbroi ,17
+Fortify Lockpicking,Premia do otwierania zamków ,18
+Fortify Magicka,Premia do magii ,19
+Fortify Marksman,Premia do strzelectwa ,20
+Fortify One-Handed,Premia do broni jednoręcznej ,21
+Fortify Pickpocket,Premia do kradzieży ,22
+Fortify Restoration,Premia do przywracania ,23
+Fortify Smithing,Premia do kowalstwa ,24
+Fortify Sneak,Premia do skradania ,25
+Fortify Stamina,Premia do kondycji ,26
+Fortify Two-Handed,Premia do broni dwuręcznej ,27
+Frenzy,Szał ,28
+Invisibility,Niewidzialność ,29
+Lingering Damage Health,Przewlekłe osłabienie zdrowia ,30
+Lingering Damage Magicka,Przewlekłe osłabienie magii ,31
+Lingering Damage Stamina,Przewlekłe osłabienie kondycji ,32
+Paralysis,Paraliż ,33
+Ravage Health,Wyniszczenie zdrowia ,34
+Ravage Magicka,Wyniszczenie magii ,35
+Ravage Stamina,Wyniszczenie kondycji ,36
+Regenerate Health,Regeneracja zdrowia ,37
+Regenerate Magicka,Regeneracja magii ,38
+Regenerate Stamina,Regeneracja kondycji ,39
+Resist Fire,Odporność na ogień ,40
+Resist Frost,Odporność na zimno ,41
+Resist Magic,Odporność na magię ,42
+Resist Poison,Odporność na trucizny ,43
+Resist Shock,Odporność na porażenie ,44
+Restore Health,Przywrócenie zdrowia ,45
+Restore Magicka,Przywrócenie magii ,46
+Restore Stamina,Przywrócenie kondycji ,47
+Slow,Spowolnienie ,48
+Waterbreathing,Oddychanie pod wodą ,49
+Weakness to Fire,Podatność na ogień ,50
+Weakness to Frost,Podatność na zimno ,51
+Weakness to Magic,Podatność na magię ,52
+Weakness to Poison,Podatność na trucizny ,53
+Weakness to Shock,Podatność na porażenia ,54
